@@ -26,7 +26,7 @@
 </p>
 
 - 📫 How to reach me: <a href="mailto:williamvosborne@gmail.com">williamvosborne@gmail.com</a>
-- :laptop: My status
+- 💻 My status
 
 <center>
   <table>
